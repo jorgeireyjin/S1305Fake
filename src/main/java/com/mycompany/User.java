@@ -10,7 +10,7 @@ public class User {
         this.name = name;
     }
 
-    // Getters y setters
+    // Getters y setters 
     public int getId() {
         return id;
     }
